@@ -1,5 +1,4 @@
-# f.lux
-f.lux indicator applet
+#f.lux indicator applet
 ======================
 Better lighting for your computer
 Learn more here: https://justgetflux.com/
